@@ -79,9 +79,6 @@ Investigating PETase enzymes and plastic-degrading bacteria as innovative tools 
 - References
   
 ## Author
-59
- 
-60
+
 Sarp AKAR
-Prospective Molecular Biology Student
 
