@@ -60,7 +60,7 @@ Exploring PETase enzymes and plastic-degrading bacteria as examples of science-d
 
 Understanding how microplastics and toxic pollutants move through marine food webs and increase at higher trophic levels.
 
-![Bioaccumulation and Biomagnification](bioaccumulation-biomagnification.jpg.jpg)
+![Bioaccumulation and Biomagnification](bioaccumulation-biomagnification.png.png)
 
 ---
 ### The Plastisphere
@@ -74,7 +74,7 @@ Exploring how floating plastic debris creates new microbial communities and tran
 
 Investigating PETase enzymes and plastic-degrading bacteria as innovative tools for future ocean conservation.
 
-![Biotechnology Solutions](biotechnology-solutions.jpg.jpg)
+![Biotechnology Solutions](biotechnology-solutions.png.png)
 
 ---  
 ## Project Files
