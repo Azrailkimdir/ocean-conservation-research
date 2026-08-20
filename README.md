@@ -84,7 +84,7 @@ Investigating PETase enzymes and plastic-degrading bacteria as innovative tools 
 - References
 
 ### Access Full Report
-[The AI Revolution in Biology](AI_Revolution_in_Biology.pdf)
+[Biotechnology Solutions](AI_Revolution_in_Biology.pdf)
 
 ## Author
 
