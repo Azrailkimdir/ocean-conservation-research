@@ -74,7 +74,7 @@ Exploring how floating plastic debris creates new microbial communities and tran
 
 Investigating PETase enzymes and plastic-degrading bacteria as innovative tools for future ocean conservation.
 
-![Biotechnology Solutions](biotechnology-solutions.png.png)
+![Biotechnology Solutions](biotechnology-solutions.png.jpg)
 
 ---  
 ## Project Files
