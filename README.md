@@ -2,7 +2,7 @@
 
 🚧 In Development
 
-# Ocean Conservation Research 🌍🌊
+# Ocean Conservation Research 
 
 An independent research project exploring plastic pollution, environmental systems, sustainability challenges, and scientific approaches to understanding and protecting marine ecosystems.
 
