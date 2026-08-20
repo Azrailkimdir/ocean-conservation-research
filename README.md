@@ -4,54 +4,55 @@
 
 # Ocean Conservation Research 🌍🌊
 
-An independent research project investigating plastic pollution, microplastics, marine ecosystems, ecotoxicology, biodiversity loss, and sustainable conservation strategies.
+An independent research project exploring plastic pollution, environmental systems, sustainability challenges, and scientific approaches to understanding and protecting marine ecosystems.
 
 ## Research Question
 
-How does plastic pollution affect marine ecosystems from the molecular level to entire food webs, and what sustainable solutions can help reduce its impact?
+How does plastic pollution affect marine ecosystems from the molecular level to entire food webs, and what scientific and technological solutions can help reduce its impact?
 
 ## Research Areas
 
-- Marine Conservation
 - Environmental Science
 - Sustainability
-- Marine Biology
-- Ecotoxicology
+- Systems Thinking
 - Climate Change
+- Data Analysis
 - Scientific Research
+- Problem Solving
   
 ## Project Highlights
 
 ### Plastic Pollution and Marine Debris
 
-Exploring how plastic waste enters oceans and accumulates in marine environments.
+Exploring how plastic waste enters ocean systems and accumulates in marine environments.
 
 ### Microplastics and Toxicity
 
-Investigating how microplastics transport pollutants through marine ecosystems.
+Investigating how microplastics transport pollutants through environmental and biological systems.
 
 ### Bioaccumulation and Biomagnification
 
-Understanding how toxins move through food webs and affect marine organisms.
+Understanding how contaminants move through food webs and influence ecosystem health.
 
 ### Marine Protected Areas
 
-Examining conservation strategies used to protect biodiversity and ecosystem resilience.
+Examining conservation strategies that improve ecosystem resilience and biodiversity protection.
 
 ### Biotechnology Solutions
 
-Exploring PETase enzymes and plastic-degrading bacteria as future conservation technologies.
+Exploring PETase enzymes and plastic-degrading bacteria as examples of science-driven environmental solutions.
 
 ## Skills Demonstrated
 
-- Marine Conservation
-- Marine Biology
+- Systems Thinking
 - Sustainability
 - Environmental Science
-- Ecotoxicology
+- Data Analysis
 - Scientific Research
 - Critical Thinking
 - Scientific Communication
+- Problem Solving
+- Scientific Modeling
 
   ## Project Visuals
 
@@ -81,7 +82,10 @@ Investigating PETase enzymes and plastic-degrading bacteria as innovative tools 
 - Research Report (PDF)
 - Figures and Infographics
 - References
-  
+
+### Access Full Report
+[The AI Revolution in Biology](AI_Revolution_in_Biology.pdf)
+
 ## Author
 
 Sarp AKAR
