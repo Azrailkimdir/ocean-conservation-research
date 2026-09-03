@@ -77,7 +77,7 @@ Investigating PETase enzymes and plastic-degrading bacteria as innovative tools 
 
 ---  
 
-### Access Full Report
+### Access Full Research Report
 [Ocean Conservation Research](Ocean_Conservation_Research.pdf)
 
 ## Author
