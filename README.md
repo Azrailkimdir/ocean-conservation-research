@@ -76,11 +76,6 @@ Investigating PETase enzymes and plastic-degrading bacteria as innovative tools 
 ![Biotechnology Solutions](biotechnology-solutions.png.jpg)
 
 ---  
-## Project Files
-
-- Research Report (PDF)
-- Figures and Infographics
-- References
 
 ### Access Full Report
 [Ocean Conservation Research](Ocean_Conservation_Research.pdf)
