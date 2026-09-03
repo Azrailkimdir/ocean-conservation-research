@@ -1,6 +1,6 @@
-## Project Status
+##Project Status
 
-🚧 In Development
+🚧 Completed - Pending Teacher Review
 
 # Ocean Conservation Research 
 
@@ -14,7 +14,7 @@ How does plastic pollution affect marine ecosystems from the molecular level to 
 
 - Environmental Science
 - Sustainability
-- Systems Thinking
+- Marine Biology
 - Climate Change
 - Data Analysis
 - Scientific Research
@@ -44,7 +44,6 @@ Exploring PETase enzymes and plastic-degrading bacteria as examples of science-d
 
 ## Skills Demonstrated
 
-- Systems Thinking
 - Sustainability
 - Environmental Science
 - Data Analysis
@@ -52,7 +51,7 @@ Exploring PETase enzymes and plastic-degrading bacteria as examples of science-d
 - Critical Thinking
 - Scientific Communication
 - Problem Solving
-- Scientific Modeling
+- Marine Biology
 
   ## Project Visuals
 
@@ -89,4 +88,4 @@ Investigating PETase enzymes and plastic-degrading bacteria as innovative tools 
 ## Author
 
 Sarp AKAR
-
+Sept 2026
